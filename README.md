@@ -16,5 +16,3 @@ A production-style data engineering pipeline that ingests market data, applies d
 - Financial risk metrics (VaR, Volatility, Max Drawdown)
 - SQL schema design
 - Logging and error handling
-
-## Project Structure
